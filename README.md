@@ -24,7 +24,9 @@ Simply double-click index.html to open it in your favorite web browser, or use a
 
 🧠 What I Practiced:
 ● Writing clean, accessible, and semantic form elements.
+<br>
 ● Mastering CSS Flexbox/Grid for perfect centering and responsive scaling.
+<br>
 ● Implementing elegant micro-interactions (transitions on inputs and buttons).
 
 📄 License:
