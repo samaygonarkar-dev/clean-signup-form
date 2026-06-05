@@ -1,0 +1,70 @@
+body {
+    background-color: #f4f6f0; /* Soft Warm Gray/Off-White */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Form Container Styling */
+.form-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px; /* Slightly rounder corners for a modern feel */
+    box-shadow: 0 10px 25px rgba(112, 128, 115, 0.15); /* Soft, tinted shadow */
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #2c3e35; /* Deep Sage Green */
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #5a6b5c; /* Muted Sage Green */
+    font-size: 14px;
+}
+
+/* Input & Select Fields */
+.form-group input, 
+.form-group select {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #d1d9d4; /* Soft Gray-Green border */
+    border-radius: 6px;
+    font-size: 16px;
+    color: #2c3e35;
+    background-color: #fafbfc;
+    transition: all 0.3s ease;
+}
+
+/* Focus state */
+.form-group input:focus, 
+.form-group select:focus {
+    outline: none;
+    border-color: #7a9a82; /* Sage Accent */
+    box-shadow: 0 0 0 3px rgba(122, 154, 130, 0.2); /* Soft glow */
+}
+
+/* Submit Button Styling */
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #7a9a82; /* Sage Accent */
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #5a6b5c; /* Darker Sage on hover */
+}
