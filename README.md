@@ -23,6 +23,7 @@ cd clean-signup-form
 Simply double-click index.html to open it in your favorite web browser, or use an extension like Live Server in VS Code for live-reloading.
 
 🧠 What I Practiced:
+<br>
 ● Writing clean, accessible, and semantic form elements.
 <br>
 ● Mastering CSS Flexbox/Grid for perfect centering and responsive scaling.
